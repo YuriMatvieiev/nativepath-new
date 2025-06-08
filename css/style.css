@@ -2425,8 +2425,8 @@ body {
   background: var(--white);
   z-index: 10;
   padding: 10px 0;
+  display: none;
 }
 .fixed-section__button {
   margin: 0 auto;
-  display: none;
 }
